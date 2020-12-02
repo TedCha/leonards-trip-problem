@@ -14,9 +14,9 @@ For the next ***r*** lines, you are given the known paths between two cities.
 
 Each path is delimited by an arrow: `->`
 
-Return "Possible" if Leonard can visit each city only once and return home.
+Return `Possible` if Leonard can visit each city only once and return home.
 
-Return "Not Possible" if Leonard can not visit each city only once and return home.
+Return `Not Possible` if Leonard can not visit each city only once and return home.
 
 ## Sample Input/Ouput
 
