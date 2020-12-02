@@ -17,6 +17,7 @@ Return "Possible" if Leonard can visit each city only once and return home.
 Return "Not Possible" if Leonard can not visit each city only once and return home.
 
 ## Sample Input 1
+```
 5 6
 Orlando -> Largo
 Key West -> Jacksonville
@@ -24,11 +25,13 @@ Clearwater -> Orlando
 Jacksonville -> Miami
 Largo -> Key West
 Miami -> Clearwater
+```
 
 ## Sample Output 1
-Possible
+`Possible`
 
 ## Sample Input 2
+```
 8 10
 Atlanta -> Savannah
 Atlanta -> Athens
@@ -40,8 +43,9 @@ Norcross -> Savannah
 Norcross -> Griffin
 Athens -> Douglasville
 Douglasville -> Griffin
+```
 
 ## Sample Output 2
-Not Possible
+`Not Possible`
 
 All inputs are available in the `stdin1 file.
