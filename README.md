@@ -4,6 +4,7 @@ Leonard, a researcher, has been tasked with sampling adjacent cities in twelve U
 ### Notes:
 * Leonard can start his trip from any of the cities that he's supposed to visit in a given state.
 * He can only visit one city twice; the city of origin for his trip. (Allowed because Leonard needs to return home!)
+* All given paths are undirected; `A -> B` You can travel from `A` to `B` and from `B` to `A`
 
 ## Explanation
 The first given line is ***n*** and ***r***. 
