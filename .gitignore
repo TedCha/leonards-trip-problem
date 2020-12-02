@@ -1,4 +1,5 @@
 .vscode
 solution.py
 stdout
+stdin
 test
