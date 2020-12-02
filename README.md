@@ -52,6 +52,3 @@ Douglasville -> Griffin
 
 ### Sample Output 2
 `Not Possible`
-
-## Inputs
-All inputs are available in the `stdin` file.
