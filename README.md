@@ -11,12 +11,16 @@ The first given line is ***n*** and ***r***.
 * ***r***: Number of paths between cities given.
 
 For the next ***r*** lines, you are given the known paths between two cities.
+
 Each path is delimited by an arrow: "->"
 
 Return "Possible" if Leonard can visit each city only once and return home.
+
 Return "Not Possible" if Leonard can not visit each city only once and return home.
 
-## Sample Input 1
+## Sample Input/Ouput
+
+### Sample Input 1
 ```
 5 6
 Orlando -> Largo
@@ -27,10 +31,10 @@ Largo -> Key West
 Miami -> Clearwater
 ```
 
-## Sample Output 1
+### Sample Output 1
 `Possible`
 
-## Sample Input 2
+### Sample Input 2
 ```
 8 10
 Atlanta -> Savannah
@@ -45,7 +49,7 @@ Athens -> Douglasville
 Douglasville -> Griffin
 ```
 
-## Sample Output 2
+### Sample Output 2
 `Not Possible`
 
 ## Inputs
