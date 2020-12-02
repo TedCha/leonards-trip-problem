@@ -53,4 +53,4 @@ Douglasville -> Griffin
 `Not Possible`
 
 ## Inputs
-All inputs are available in the `stdin1 file.
+All inputs are available in the `stdin` file.
