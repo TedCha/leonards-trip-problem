@@ -33,7 +33,9 @@ Miami -> Clearwater
 ```
 
 ### Sample Output 1
-`Possible`
+```
+Possible
+```
 
 ### Sample Input 2
 ```
@@ -51,4 +53,6 @@ Douglasville -> Griffin
 ```
 
 ### Sample Output 2
-`Not Possible`
+```
+Not Possible
+```

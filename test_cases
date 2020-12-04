@@ -1,0 +1,149 @@
+1: Possible
+------------------------------------------
+5 6
+Orlando -> Largo
+Key West -> Jacksonville
+Clearwater -> Orlando
+Jacksonville -> Miami
+Largo -> Key West
+Miami -> Clearwater
+
+2: Not Possible
+-------------------------------------------
+8 10
+Atlanta -> Savannah
+Atlanta -> Athens
+Savannah -> Macon
+Savannah -> Norcross 
+Macon -> Athens
+Macon -> Helen
+Norcross -> Savannah
+Norcross -> Griffin
+Athens -> Douglasville
+Douglasville -> Griffin
+
+3: Not Possible
+-------------------------------------------
+5 4
+Las Vegas -> Reno
+Carson City -> Reno
+Elko -> Reno
+Mesquite -> Reno
+
+4: Not Possible
+-------------------------------------------
+4 5
+Houston -> Dallas
+Houston -> Austin
+Dallas -> Austin
+Austin -> El Paso
+El Paso -> Dallas
+
+5: Possible
+-------------------------------------------
+7 12
+Great Falls -> Bozeman
+Bozeman -> Missoula
+Great Falls -> Butte
+Butte -> Kalispell
+Kalispell -> Havre
+Havre -> Helena
+Missoula -> Helena
+Bozeman -> Havre
+Bozeman -> Kalispell
+Kalispell -> Helena
+Havre -> Butte
+Butte -> Helena
+
+6: Not Possible
+-------------------------------------------
+8 12
+Seattle -> Olympia
+Seattle -> Tacoma
+Seattle -> Bellevue
+Tacoma -> Spokane
+Tacoma -> Redmond
+Redmond -> Everett
+Redmond -> Bellevue
+Bellevue -> Yakima
+Olympia -> Spokane
+Spokane -> Everett
+Everett -> Yakima
+Yakima -> Olympia
+
+7: Possible
+-------------------------------------------
+6 12
+Columbus -> Cleveland
+Cleveland -> Cincinnati
+Columbus -> Cincinnati
+Cleveland -> Toledo
+Cleveland -> Akron
+Akron -> Toledo
+Akron -> Dayton
+Toledo -> Dayton
+Cincinnati -> Toledo
+Cincinnati -> Dayton
+Columbus -> Dayton
+Columbus -> Akron
+
+8: Possible
+-------------------------------------------
+8 12
+Ithaca -> Kingston
+Kingston -> Jamestown
+Long Beach -> New York
+Long Beach -> Norwich
+Plattsburgh -> Poughkeepsie
+Ithaca -> Poughkeepsie
+Long Beach -> Plattsburgh
+Ithaca -> Jamestown
+Kingston -> Long Beach
+Kingston -> Norwich
+Plattsburgh -> New York
+Plattsburgh -> Ithaca
+
+9: Not Possible
+-------------------------------------------
+5 8
+New York City -> Plattsburgh
+New York City -> Beacon
+Plattsburgh -> Buffalo
+Plattsburgh -> Little Falls
+Plattsburgh -> Beacon
+Beacon -> Little Falls 
+Beacon -> Buffalo
+Buffalo -> Little Falls
+
+10: Not Possible
+-------------------------------------------
+4 6
+Honolulu -> Lahaina
+Honolulu -> Hilo
+Honolulu -> Pearl City
+Pearl City -> Hilo
+Pearl City -> Lahaina
+Lahaina -> Hilo
+
+11: Not Possible
+-------------------------------------------
+5 6
+Los Angeles -> San Francisco
+Los Angeles -> Fresno
+Los Angeles -> Santa Barbara
+San Francisco -> Santa Barbara
+Santa Barbara -> San Diego
+San Diego -> Fresno
+
+12: Possible
+-------------------------------------------
+6 9
+Lincoln -> Omaha
+Omaha -> Scottbluff
+Scottbluff -> Norfolk
+Norfolk -> Kearney
+Kearney -> Grand Island
+Grand Island -> Lincoln
+Omaha -> Norfolk
+Norfolk -> Grand Island
+Grand Island -> Omaha
